@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Sailcalc::VERSION
   spec.authors       = ["Trevor Reiff"]
   spec.email         = ["trevorreiff@gmail.com"]
-  spec.summary       = %q{Common yacht design formula to compare sailboats.}
+  spec.summary       = %q{Common yacht design formulas.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
