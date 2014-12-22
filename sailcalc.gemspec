@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Trevor Reiff"]
   spec.email         = ["trevorreiff@gmail.com"]
   spec.summary       = %q{Common yacht design formulas.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Gem contains different formula for calculating yacht parameters.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
