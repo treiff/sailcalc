@@ -1,6 +1,6 @@
 require "sailcalc/version"
 
-module Sailcalc
+class Sailcalc
   def self.dl_ratio(disp, lwl)
     longTons = disp.to_f / 2240
     (longTons / (0.01 * lwl)**3).round(2)
