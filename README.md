@@ -1,4 +1,5 @@
 # Sailcalc
+[![Gem Version](https://badge.fury.io/rb/sailcalc.svg)](http://badge.fury.io/rb/sailcalc)
 
 Gem provides access to commenly used sailboat and yacht design formula.  
 
